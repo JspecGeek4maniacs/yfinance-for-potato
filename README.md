@@ -1,3 +1,3 @@
 # yfinance-for-potato
-yfinance in python
+Yahoo Finance in python
 in the simplest way
